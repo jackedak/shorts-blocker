@@ -12,7 +12,7 @@
 	"content_scripts": [
 		{
 			"css": ["css/blocker.css"],
-			"matches": ["https://www.youtube.com/*"]
+			"matches": ["https://www.youtube.com/*", "https://www.m.youtube.com/*"]
 		}
 	]
 }
